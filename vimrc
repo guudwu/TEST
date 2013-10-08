@@ -1,0 +1,1 @@
+/home/guud/.vimrc
